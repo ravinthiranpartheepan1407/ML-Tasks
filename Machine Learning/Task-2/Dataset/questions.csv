@@ -1,0 +1,28 @@
+Question number,Question,Answer,Answer weight
+1,What is your level of English?,Nesuprantu kas čia prirašyta!,0
+1,What is your level of English?,Beginner,1
+1,What is your level of English?,Intermediate,2
+1,What is your level of English?,Proficient,3
+1,What is your level of English?,Fluent,4
+1,What is your level of English?,Native,5
+2,What is your level of programming experience?,None,0
+2,What is your level of programming experience?,I played a little bit with it,1
+2,What is your level of programming experience?,I did programming assignments in school/university,2
+2,What is your level of programming experience?,I did/do programming projects on my own,3
+2,What is your level of programming experience?,Programming is (part of) my job,4
+3,What is your level of Python programming experience?,None,0
+3,What is your level of Python programming experience?,I played a little bit with it,1
+3,What is your level of Python programming experience?,I did Python programming assignments in school/university,2
+3,What is your level of Python programming experience?,I did/do small Python programming projects on my own,3
+3,What is your level of Python programming experience?,I use Python in my job,4
+4,What is your level of machine learning (/deep learning) experience?,I don't know what it is,0
+4,What is your level of machine learning (/deep learning) experience?,I have some theoretical knowledge,1
+4,What is your level of machine learning (/deep learning) experience?,I played a little bit with it,2
+4,What is your level of machine learning (/deep learning) experience?,I did some ML/DL assignments in school/university,3
+4,What is your level of machine learning (/deep learning) experience?,I did/do ML/DL projects on my own,4
+4,What is your level of machine learning (/deep learning) experience?,I use ML/DL in my job,5
+5,What is your attitude towards mathematics?,I hate it!,-2
+5,What is your attitude towards mathematics?,I dislike it,-1
+5,What is your attitude towards mathematics?,Neutral,0
+5,What is your attitude towards mathematics?,I like it,1
+5,What is your attitude towards mathematics?,I love it!,2
